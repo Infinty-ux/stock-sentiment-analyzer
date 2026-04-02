@@ -1,0 +1,12 @@
+praw>=7.7.0
+yfinance>=0.2.36
+transformers>=4.38.0
+torch>=2.1.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+statsmodels>=0.14.0
+streamlit>=1.32.0
+plotly>=5.18.0
+apscheduler>=3.10.0
+pyarrow>=14.0.0
